@@ -1,0 +1,23 @@
+Cpanel [Brut/Checker]
+
+[+] The software supports:
+{+} Proxy [http/https/socks5/socks5/]
+{+} Multithreading
+
+String receiving format
+Example output validity:
+
+https://site.com | Port | Login | Pass |Domain: site.com, site.ru 
+IP: 192.168.0.1 | MySQL DB: 10| Bandwidth: 1.000 MB 
+
+Or just a validation check
+[url:port:login:pass]
+
+
+Payment is accepted in cryptocurrency
+With the purchase you will be supported by the software ( + adding functions as required ).
+
+Included with the software is a generator for brute force stringsа
+
+
+https://t.me/cpanel_checker
